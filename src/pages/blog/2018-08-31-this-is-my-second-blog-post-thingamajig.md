@@ -4,7 +4,7 @@ title: This is my second blog post thingamajig
 date: '2018-08-31T15:52:07-07:00'
 description: Yet another blog post.
 tags:
-  - ''
+  - flavor
 ---
 Here's yet another dumpster fire:
 
